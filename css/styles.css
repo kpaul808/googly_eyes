@@ -1,0 +1,11 @@
+img#right{
+	height: 250px;
+	opacity: 0;
+}
+img#left{
+	height: 750px;
+	opacity: 0;
+}
+img#right: hover{
+	opacity: 1.0;
+}
